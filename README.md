@@ -1,0 +1,2 @@
+# logicalprogram
+day6problem
